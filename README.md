@@ -1,15 +1,8 @@
 ## Hola Chicos! aquí Kodo Sensei!!
-<div align="center">
+<div style="display: flex; flex-direction: wrap; width:100%;">
   <a href="https://github.com/kodosensei">
-    <table>
-  <tr>
-    <td valign="top">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodosensei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </td>
-        <td valign="top">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodosensei&layout=compact&langs_count=7&theme=dracula"/>
-    </td>
-    </table>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodosensei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodosensei&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <h3>
  👾 Principal Stack
