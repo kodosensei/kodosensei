@@ -2,7 +2,7 @@
 <a href="https://github.com/kodosensei">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto;">
  
- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=kodosensei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=kodosensei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodosensei&layout=compact&langs_count=7&theme=dracula"/>
       
