@@ -27,7 +27,7 @@
   <img align="center"  src="https://img.shields.io/badge/sqlserver-00bD1e?style=for-the-badge&logo=sqlserver&logoColor=white">
    </div>
   
-  <h4>Tools & Technologies</h4>
+  <h4>ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -55,7 +55,7 @@
   
   ##
  
-  <h4>Social Media</h4>
+  <h4>ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>
 <div> 
   <a href="https://www.youtube.com/channel/UCGlYy2VYNOTOUswHA_qDqJQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kodoosensei/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
